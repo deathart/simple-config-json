@@ -3,13 +3,13 @@
 
 Usage : 
 ```JavaScript
-var simple-config-json = require('simple-config-json'),
+var config_json = require('simple-config-json'),
     option_for_config = {
-    Directory : "./option/",
+    Directory : "./config/",
     debug : false
 }
 
-var config = new simple-config-json("config1", option_for_config);
+var config = new config_json("config1", option_for_config);
 ```
 
 >//Normal

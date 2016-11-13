@@ -1,6 +1,6 @@
 {
   "name": "simple-config-json",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "simple get,set config json file",
   "main": "./lib/index.js",
   "scripts": {
