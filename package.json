@@ -1,0 +1,25 @@
+{
+  "name": "simple-config-json",
+  "version": "1.0.1",
+  "description": "simple get,set config json file",
+  "main": "./lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deathart/simple-config-json.git"
+  },
+  "keywords": [
+    "config",
+    "json",
+    "data",
+    "simple"
+  ],
+  "author": "deathart <deathart@hotmail.fr> (https://github.com/deathart)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/deathart/simple-config-json/issues"
+  },
+  "homepage": "https://github.com/deathart/simple-config-json#readme"
+}
