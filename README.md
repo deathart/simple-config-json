@@ -1,4 +1,6 @@
 # configJSON
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/deathart/simple-config-json.svg)](https://greenkeeper.io/)
 <a href="https://www.npmjs.com/package/configjson"><img src="https://nodei.co/npm/configjson.png?downloads=true" /></a>
 
 Usage : 
